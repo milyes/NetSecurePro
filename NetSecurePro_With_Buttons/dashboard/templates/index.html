@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard IA</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Tableau de bord – Modules IA</h1>
+    {% for name, data in modules.items() %}
+        <div class="module">
+            <h2>{{ data.module }}</h2>
+            <p><strong>État :</strong> {{ data.state }}</p>
+            <p><strong>Interactions :</strong> {{ data.interactions }}</p>
+            <form action="/restart/{{ name }}" method="post" style="display:inline;">
+                <button type="submit">Redémarrer (simulé)</button>
+            </form>
+            <form action="/log/{{ name }}" method="get" style="display:inline;">
+                <button type="submit">Afficher Logs</button>
+            </form>
+        </div>
+    {% endfor %}
+</body>
+</html>

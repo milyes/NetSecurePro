@@ -1,0 +1,2000 @@
+│   ├── ifvndex.html
+│   ├── in76dex.html
+│   ├── incgdex.html
+│   ├── ind76ex.html
+│   ├── inde0x.html
+│   ├── index-capsule.html
+│   ├── index.html
+│   ├── index.ts
+│   ├── index_responsive_dark.html
+│   ├── index_responsive_dark1.html
+│   ├── indexc.html
+│   ├── indgjex.html
+│   ├── inedex.html
+│   ├── ingdex.html
+│   ├── inhdex.html
+│   ├── mets.html
+│   ├── patch_gemini.sh
+│   ├── projects
+│   ├── rapp.html
+│   ├── rrindex.html
+│   ├── ukbuntu.html
+│   └── z-core.html
+├── GUIDE_COMPLET_Z-CORE_ANPDP_20261009.md
+├── Ghir Rouhi Wensayni.mp4
+├── IA22CONSOLEDEPLOY
+│   ├── LICENSE
+│   ├── README.md
+│   ├── ia22_server.py
+│   ├── ia22terminaldashboard.html
+│   ├── ia22terminalnode_mobile.py
+│   ├── index.html
+│   ├── style_terminal.css
+│   ├── terminal_state.json
+│   ├── webterminalengine.json
+│   └── webterminalia22.html
+├── IA22_AZENV_01
+│   ├── IA22AZENV_01_V2.sh
+│   ├── IA22_AUTO_PUSH.sh
+│   ├── IA22_AZENV_01
+│   └── README.md
+├── IA22_DZERO_EXEC
+│   ├── IA22_DZERO_EXEC.zip
+│   ├── IA22_DZERO_EXEC_GHPAGES.zip
+│   ├── README.md
+│   ├── in8dex.html
+│   ├── index.html
+│   ├── interface
+│   ├── launcher_cli.sh
+│   ├── launcher_webview.sh
+│   ├── main.py
+│   └── modules
+├── IA22_LOGIC
+│   ├── ANALYSIS.md
+│   ├── CHANGELOG.md
+│   ├── ETAPE_16_SIEM.md
+│   ├── ETAPE_17_18_19.md
+│   ├── IA22_LOGIC.apk
+│   ├── LICENSE
+│   ├── NetSecurePro-ZCORE-22.0.0.iso
+│   ├── NetSecurePro_IA22_LOGIC.iso
+│   ├── README.md
+│   ├── config
+│   ├── deploy.sh
+│   ├── deploy_github_pages.sh
+│   ├── dist
+│   ├── docs
+│   ├── enterprise
+│   ├── index.html
+│   ├── iso
+│   ├── mobile
+│   ├── src
+│   └── vm
+├── IA22_LOGICVMMQEM
+│   ├── 22medu.html
+│   ├── 3index.html
+│   ├── 77index.html
+│   ├── 7tui.html
+│   ├── A_square_digital_graphic_design_features_a_log
+o_fo.png
+│   ├── CNAME
+│   ├── CONSOLEINVENTEUR.html
+│   ├── CONSOLE_IA_SIMULATION.html
+│   ├── ConsoleIA22Web.html
+│   ├── DZROUGE_TERMINAL_IA.html
+│   ├── FastAPI-EmpruntsIA-MiniC.html
+│   ├── Fréchet.html
+│   ├── IA22.html
+│   ├── IA22CONSOLEINVENTEUR.html
+│   ├── IA22LANCERCONSOLE.html
+│   ├── IA22ZERO.html
+│   ├── IA22_ALLMODULES.html
+│   ├── IA22_LOGICVMQEUM.md
+│   ├── IA_LOGIC_ICON_PREVIEW.png
+│   ├── Ilye1s.html
+│   ├── Inhhhdex.html
+│   ├── README.md
+│   ├── SECURITY.md
+│   ├── ai_interaction.js
+│   ├── ai_rules.js
+│   ├── ai_studio_code (74).html
+│   ├── apk.html
+│   ├── assets
+│   ├── ccfhfh.htnl
+│   ├── de.html
+│   ├── default.html
+│   ├── dian.html
+│   ├── esim.html
+│   ├── ews.html
+│   ├── fz.html
+│   ├── giyuindex.html
+│   ├── i1ndex.html
+│   ├── i2ndex.html
+│   ├── ia.html
+│   ├── ifwndex.html
+│   ├── in76.html
+│   ├── incdex.html
+│   ├── ind0ex.html
+│   ├── indehkx.html
+│   ├── index.html
+│   ├── index22.html
+│   ├── index4.html
+│   ├── index76.html
+│   ├── indfdgfex.html
+│   ├── indgugg6ex.html
+│   ├── indyex.html
+│   ├── inigdex.html
+│   ├── interpreter.js
+│   ├── intvdex.html
+│   ├── ioundex.html
+│   ├── juin.html
+│   ├── launcher_html.sh
+│   ├── medu.html
+│   ├── metadata_IA22.txt
+│   ├── mgkt.html
+│   ├── module.html
+│   ├── neo.html
+│   ├── netsecure.html
+│   ├── netsecure_ai_modules.js
+│   ├── netsecure_ai_modules.json
+│   ├── ocean.html
+│   ├── res.html
+│   ├── res2.html
+│   ├── res5.html
+│   ├── s1.html
+│   ├── s4.html
+│   ├── script.js
+│   ├── siitemap.html
+│   ├── sitemap.html
+│   ├── sp.html
+│   ├── style.css
+│   ├── svg.html
+│   ├── terminal-live.html
+│   ├── terminal-live3d.html
+│   ├── tres.html
+│   ├── tt.html
+│   ├── webm.html
+│   ├── yhgy.html
+│   └── zero.html
+├── IA22_PACKAGE_INSTALLER.sh
+├── IAInnovia.py
+├── IA_AGENTS_MT1_ZT.sh
+├── IA_Fraude_Carte_Logic.html
+├── IA_INSTALLERS_FULL
+│   ├── A_square_digital_graphic_design_features_a_log
+o_fo.png
+│   ├── FICHE_IA_LOGIC_SAML_APK_SIMPLE.pdf
+│   ├── GoogleIDPMetadata.xml
+│   ├── IA_LOGIC_ICON.png
+│   ├── IA_LOGIC_ICON_FICHE_OFFICIELLE.pdf
+│   ├── IA_LOGIC_ICON_PUBLISH_FULL.zip
+│   ├── IA_LOGIC_ICON_RESEAUX.png
+│   ├── IA_LOGIC_SAML_CONFIG_PACKAGE.zip
+│   ├── IA_LOGIC_SAML_FINAL_PACKAGE.zip
+│   ├── NETSECUREPRO_IA_SAML_FULL_PACKAGE.zip
+│   ├── NETSECUREPRO_SAML_FLASK_READY.pdf
+│   ├── QR_IA_LOGIC_ICON.png
+│   ├── QR_IA_LOGIC_SAML_GITHUB.png
+│   ├── QR_SAML_IA_LOGIC_POSTER.png
+│   ├── README.md
+│   ├── ec.html
+│   ├── indetx.html
+│   ├── index.html
+│   ├── index_ia_logic_saml_download.html
+│   └── ujgj
+├── IA_LLM_SAHBI.ai
+├── IA_Parkinson_Logic.py
+├── IA_STARTUP_CLI.sh
+├── IA_Z-CORE_APPELS.sh
+├── IA_Z-CORE_FRAUDE.sh
+├── IA_Z-CORE_VISION.sh
+├── IA_ZER0.09.0_ZCORE.py
+├── IA_ZER0.10.0_ZCORE.py
+├── IA_ZER0.10.4_ZCORE_ENTERPRISE.py
+├── IA_ZER0_11_NANS_WEB.py
+├── IA_ZERO_11_NANS_COMPLETE.py
+├── IA_ZERO_11_NANS_WEB.py
+├── INNOVOIA_FINAL.sh
+├── INNOVOIA_FINAL_FIX.sh
+├── KIT_COMPLET
+│   ├── PV_DEPLOIEMENT_3900.txt
+│   ├── PV_FINAL_ANPDP_20261009.pdf
+│   ├── PV_FINAL_ANPDP_20261009.txt
+│   ├── SHA256_ANPDP.txt
+│   ├── zcore_3900_zero_trust.sh
+│   └── zcore_deploy_3900_native
+├── LANCE_BIN.html
+├── LICENSE_MARLOO.txt
+├── M
+│   ├── 2index.html
+│   ├── 3bin.html
+│   ├── Generated Image October 11, 2025 - 11_46AM.png
+│   ├── IA22STREAM.html
+│   ├── IA22_LOGIC_REAL.zip
+│   ├── IA22_NETSECUREPRO_FULL.zip
+│   ├── IA22_TUNNEL_Certificate_Orbitronic.png
+│   ├── IA22_iProxy_Pack.zip
+│   ├── Logic.html
+│   ├── M.png
+│   ├── README.md
+│   ├── README.txt
+│   ├── SETUP_ARCHITECTURE.sh
+│   ├── Terminal.html
+│   ├── a2.html
+│   ├── ad.html
+│   ├── ai_studi.html
+│   ├── ai_studio_cod.html
+│   ├── ai_studio_code.html
+│   ├── ai_studio_code56.html
+│   ├── ai_studio_code57.html
+│   ├── archive_map_android.py
+│   ├── asqm.html
+│   ├── audio.html
+│   ├── ayri.html
+│   ├── cam.html
+│   ├── ch.html
+│   ├── check-deploy.sh
+│   ├── cia22.html
+│   ├── cin.html
+│   ├── cmd.html
+│   ├── code.html
+│   ├── como.html
+│   ├── conseil.html
+│   ├── copilot html
+│   ├── copilot.html
+│   ├── deploy.sh
+│   ├── dmx.html
+│   ├── dzrouge.html
+│   ├── ews.html
+│   ├── exemple.pdf
+│   ├── explore_trace.py
+│   ├── fic4hier _3bin.html
+│   ├── fichier _3bin.html
+│   ├── form.html
+│   ├── gallery_orbitronique.html
+│   ├── ggh.ghhtml
+│   ├── gh.html
+│   ├── ght.html
+│   ├── gindex.html
+│   ├── gm.html
+│   ├── good.html
+│   ├── gpt_cli_start.py
+│   ├── guide.html
+│   ├── hmgkg.html
+│   ├── i86ndex.html
+│   ├── ia22.html
+│   ├── ia22tunnelcockpit.html
+│   ├── iap.html
+│   ├── icndex.html
+│   ├── if1hgndex.html
+│   ├── ifhgndex.html
+│   ├── iindex.html
+│   ├── ils.html
+│   ├── in1dex.html
+│   ├── in3dex.html
+│   ├── in9dex.html
+│   ├── ind3ex.html
+│   ├── ind5fex.html
+│   ├── ind65ex.html
+│   ├── ind75ex.html
+│   ├── ind8ex.html
+│   ├── ind8yex.html
+│   ├── ind98ex.html
+│   ├── inde68x.html
+│   ├── inde7x.html
+│   ├── inde868x.html
+│   ├── indeax.html
+│   ├── indeewgx.html
+│   ├── indeftx1.html
+│   ├── indegujx.html
+│   ├── indehotx.html
+│   ├── indellx.html
+│   ├── indeojx.html
+│   ├── indeuthx.html
+│   ├── index.html
+│   ├── index1.html
+│   ├── index42.html
+│   ├── index6.html
+│   ├── index_responsive_dark.html
+│   ├── index_responsive_dark1.html
+│   ├── indexi.html
+│   ├── indexjhk.html
+│   ├── indexrr.html
+│   ├── indexs1.html
+│   ├── indfbex.html
+│   ├── indfex.html
+│   ├── indfygex.html
+│   ├── indgvbnex.html
+│   ├── indnuex.html
+│   ├── inds1tex.html
+│   ├── indstex.html
+│   ├── ineyaydex.html
+│   ├── inhokdex.html
+│   ├── iniodex.html
+│   ├── injh9idex.html
+│   ├── inlgkdex.html
+│   ├── invo.html
+│   ├── ipgytv.html
+│   ├── ipt2v.html
+│   ├── iptv.html
+│   ├── it.html
+│   ├── liste.html
+│   ├── localproxy.html
+│   ├── logic_cover.html
+│   ├── lol.html
+│   ├── lov.html
+│   ├── m2.html
+│   ├── m3.html
+│   ├── mai1n.html
+│   ├── main.html
+│   ├── mdh.html
+│   ├── mms.html
+│   ├── mr.html
+│   ├── netsecure_map_archive.js
+│   ├── netsecurepro.html
+│   ├── noud4.html
+│   ├── ocean.html
+│   ├── ov1.html
+│   ├── paranormal_dashboard.html
+│   ├── paranormal_dashboard_full.html
+│   ├── paranormal_dashboard_package.zip
+│   ├── prompts_netsecurepro_ia22.html
+│   ├── prompts_netsecurepro_ia22.pdf
+│   ├── qc.html
+│   ├── quiz.html
+│   ├── repo.html
+│   ├── request.html
+│   ├── sp.html
+│   ├── tb.html
+│   ├── tv.html
+│   ├── tygtj.html
+│   ├── ubuntu.html
+│   ├── uchat.html
+│   ├── uf.html
+│   ├── v5.html
+│   ├── visuel.html
+│   └── xiuuio.html
+├── MCL_MILYES
+│   ├── AI_AUTO.py
+│   ├── CHANGELOG.md
+│   ├── README.MD
+│   ├── README.md
+│   ├── SECURITY.md
+│   ├── dashboard.html
+│   ├── docs
+│   ├── index.html
+│   ├── mcl_batch_deploy.py
+│   ├── mcl_milyes_logs.json
+│   ├── pitch.html
+│   ├── plateforme.py
+│   ├── projects
+│   ├── src
+│   └── tests
+├── MILYES-CORE.py
+├── MILYES-IA-V9-NANS-v1_9-89b6df2e-v24
+│   ├── 291279
+│   ├── MILYES-IA-V9-NANS-v1_9-GO-FINAL-89b6df2e-v24.z
+ip
+│   ├── MILYES_GATEWAY.py
+│   ├── README.md
+│   ├── RELEASE_NOTE_TELUS.md
+│   ├── SAHBI-SA-BIN.HTML
+│   ├── Z-PUCE-1line.py
+│   ├── banner-v1_9-OPUS45.png
+│   ├── gateway.log
+│   ├── ia22.py
+│   └── z_core_final.py
+├── MILYES-IA-V9-NANS-v1_9-GO-FINAL.zip
+├── MILYES_AUDIT_REPORT_9942.pdf
+├── MILYES_GATEWAY.py
+├── MILYES_GATEWAY_V9b.py
+├── MILYES_MONOLITH_V4.py
+├── NANS-AZURE-DEPLOY-ZT.sh
+├── NANS_ACTIVE_CORE.py
+├── NANS_ACTIVE_CORE.ts
+├── NANS_V10_CORE_FINAL.sh
+├── NANS_V10_LOCK.sh
+├── NANS_V10_RECURSION.sh
+├── NETSECUREPRO_ASSISTANT.ai
+├── NETSECUREPRO_IA22
+│   ├── 22medu.html
+│   ├── 4index.html
+│   ├── A_square_digital_graphic_design_features_a_log
+o_fo.png
+│   ├── ConsoleIA22Web.html
+│   ├── IA22_LOGIC.html
+│   ├── IA22_LOGIC_EXEMPLE.html
+│   ├── IA22_LOGIC_FONCTIONNEL.html
+│   ├── IA22_LOGIC_MEDICAL.html
+│   ├── IA22_LOGIC_OS.html
+│   ├── IA22_Web_Console
+│   ├── IA_LOGIC_ICON_PREVIEW.png
+│   ├── Ilyes.html
+│   ├── Langages et Commandes en Intelligence Artifici
+elle.html
+│   ├── NetSecurePro_IA22_full.zip
+│   ├── NetSecurePro_IA_Analyser.html
+│   ├── README.md
+│   ├── SYSTEMEOSIA
+│   ├── ai_interaction.js
+│   ├── assistant.html
+│   ├── config.json
+│   ├── dashboardia22modules.html
+│   ├── default.html
+│   ├── deploy_netsecurepro_ia22.sh
+│   ├── docs.html
+│   ├── dzero.html
+│   ├── e.html
+│   ├── extension
+│   ├── fhh.html
+│   ├── ggh.html
+│   ├── gghg.html
+│   ├── ia
+│   ├── ia22_video_launcher.sh
+│   ├── icandex.html
+│   ├── icccc.html
+│   ├── ils.html
+│   ├── in1dex.html
+│   ├── ind3.html
+│   ├── ind56ex.html
+│   ├── inde8x.html
+│   ├── index.html
+│   ├── index1.html
+│   ├── indexh.html
+│   ├── indeytx.html
+│   ├── indgg.html
+│   ├── indghex.html
+│   ├── indstex.html
+│   ├── ingghjdex.html
+│   ├── lend.html
+│   ├── lex.html
+│   ├── logic_data
+│   ├── lot.html
+│   ├── mc.html
+│   ├── med.html
+│   ├── messenger.html
+│   ├── metadata_IA22.txt
+│   ├── mobile.html
+│   ├── modules
+│   ├── mok.html
+│   ├── mop.html
+│   ├── netsecure_ai_modules.json
+│   ├── script.js
+│   ├── scripts
+│   ├── setup_ia22_web.sh
+│   ├── sp.html
+│   ├── style.css
+│   ├── ubuntu_intelligence.sh
+│   ├── v.html
+│   ├── verification_result.js
+│   ├── video_launcher.html
+│   ├── web.html
+│   └── welcome_admin.json
+├── NETSECURE_IA_TUNNEL_ZT.sh
+├── NSP
+│   ├── README.md
+│   ├── ai
+│   ├── api
+│   ├── assets
+│   ├── console
+│   ├── core
+│   ├── index.html
+│   ├── metadata.json
+│   ├── node_modules
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── run.sh
+│   ├── server.ts
+│   ├── src
+│   ├── tests
+│   ├── tsconfig.json
+│   └── vite.config.ts
+├── NSP-IA22
+│   ├── 22medu.html
+│   ├── 4index.html
+│   ├── A_square_digital_graphic_design_features_a_log
+o_fo.png
+│   ├── ConsoleIA22Web.html
+│   ├── IA22_LOGIC.html
+│   ├── IA22_LOGIC_EXEMPLE.html
+│   ├── IA22_LOGIC_FONCTIONNEL.html
+│   ├── IA22_LOGIC_MEDICAL.html
+│   ├── IA22_LOGIC_OS.html
+│   ├── IA22_Web_Console
+│   ├── IA_LOGIC_ICON_PREVIEW.png
+│   ├── Ilyes.html
+│   ├── Langages et Commandes en Intelligence Artifici
+elle.html
+│   ├── NetSecurePro_IA22_full.zip
+│   ├── NetSecurePro_IA_Analyser.html
+│   ├── README.md
+│   ├── SYSTEMEOSIA
+│   ├── ai_interaction.js
+│   ├── assistant.html
+│   ├── config.json
+│   ├── dashboardia22modules.html
+│   ├── default.html
+│   ├── deploy_netsecurepro_ia22.sh
+│   ├── docs.html
+│   ├── dzero.html
+│   ├── e.html
+│   ├── extension
+│   ├── fhh.html
+│   ├── ggh.html
+│   ├── gghg.html
+│   ├── ia
+│   ├── ia22_video_launcher.sh
+│   ├── icandex.html
+│   ├── icccc.html
+│   ├── ils.html
+│   ├── in1dex.html
+│   ├── ind3.html
+│   ├── ind56ex.html
+│   ├── inde8x.html
+│   ├── index.html
+│   ├── index1.html
+│   ├── indexh.html
+│   ├── indeytx.html
+│   ├── indgg.html
+│   ├── indghex.html
+│   ├── indstex.html
+│   ├── ingghjdex.html
+│   ├── lend.html
+│   ├── lex.html
+│   ├── logic_data
+│   ├── lot.html
+│   ├── mc.html
+│   ├── med.html
+│   ├── messenger.html
+│   ├── metadata_IA22.txt
+│   ├── mobile.html
+│   ├── modules
+│   ├── mok.html
+│   ├── mop.html
+│   ├── netsecure_ai_modules.json
+│   ├── script.js
+│   ├── scripts
+│   ├── setup_ia22_web.sh
+│   ├── sp.html
+│   ├── style.css
+│   ├── ubuntu_intelligence.sh
+│   ├── v.html
+│   ├── verification_result.js
+│   ├── video_launcher.html
+│   ├── web.html
+│   └── welcome_admin.json
+├── NaN_CORE.code
+│   └── Zéro Trust Native-v11
+├── NetSecurePro-IA-ZeroTrust-Native
+│   ├── IA_Fraude_Carte_Logic.html
+│   ├── IA_Parkinson_Logic.html
+│   ├── IA_Parkinson_Logic_mobile.html
+│   ├── RBC_Chatbot_Cartes_Logic.html
+│   ├── README.md
+│   ├── ZH202.html
+│   ├── exec_bin.html
+│   ├── ia_parkinson_logic_doctor.html
+│   ├── index.html
+│   ├── milyes-ia-v9-nans
+│   ├── modules-ia-securisee
+│   ├── requirements.txt
+│   ├── zt_demo_api_client.py
+│   ├── zt_native.py
+│   └── zt_serve.py
+├── NetSecurePro_IA22
+│   ├── AndroidManifest.xml
+│   └── assets
+├── NetSecurePro_With_Buttons
+│   └── dashboard
+├── PV_DEPLOIEMENT_3900.txt
+├── PV_FINAL_ANPDP_20261009.pdf
+├── PV_FINAL_ANPDP_20261009.txt
+├── Purge
+├── RAPPORT_DURCISSEMENT_MARLOO.md
+├── README.md
+├── README.txt
+├── README_FRANCK.txt
+├── Rapport_CAI_INC-2026-5A78F2.pdf
+├── Rapport_Durcissement_Marloo_v10.pdf
+├── Rotation
+├── S1_final.pdf
+├── S1_final_7slides.html
+├── S1_html
+├── SAHBI-SA
+│   ├── LICENSE
+│   ├── LanceIA_BIN.html
+│   ├── README.md
+│   ├── SAHBI-SA-V6.1-CERTIFIE-08h34.tar.gz
+│   ├── Z-Puce-1line.py
+│   ├── config.json
+│   ├── ia22_video_launcher.sh
+│   ├── preuve_loi25_export.json
+│   ├── z_puce_V6_2_RAM50.py
+│   └── zcore_unified.py
+├── SAHBI-SA-AI22-1LINE-BIN-LANCER.sh
+├── SAHBI-SA-BIN.HTML
+├── SAHBI-SA-TELUS
+├── SAHBI-SA_ZERO-TRUST_BIN.html
+├── SHA256SUMS_V9.txt
+├── SHA256_ANPDP.txt
+├── SHA256_FINAL_HTML5.txt
+├── SHA256_KIT_COMPLET.txt
+├── SYSTEMEOSIA
+│   ├── README.md
+│   ├── SYSTEMEOSIA
+│   ├── archive
+│   ├── index.html
+│   └── publications.html
+├── VMS_ZPUCE_V5.0.0_DEMO.zip
+├── Validation
+├── WORKSPACE
+│   ├── BROUILLONS
+│   ├── LIVRABLES_HTML
+│   ├── MCL_MILYES
+│   └── install.sh
+├── Z-CORE
+│   ├── 76zcore.html
+│   ├── AIMEDIXALv4-PRO.html
+│   ├── CNAME
+│   ├── Core-G7-Kit-Anpdp.html
+│   ├── DOSSIER_FINAL_ANPDP_20261009.tar.gz
+│   ├── DZROUGE.md
+│   ├── Eric.html
+│   ├── GITHUB_STRUCTURE.md
+│   ├── GRONDIN_v2_guide-1.html
+│   ├── GRONDIN_v2_guide.html
+│   ├── GRONDINv2.md
+│   ├── IA22_WEB_CONSOLE.html
+│   ├── Infographie-Animee-Fluide-Lisse.html
+│   ├── MILYES-IA-V9-NANS-v1_9-GO-FINAL.zip
+│   ├── MILYES_AUDIT_REPORT_9942.pdf
+│   ├── MILYES_IA_v9_Enterprise_Pro_FINAL.html
+│   ├── MediDream_Dashboard.html
+│   ├── PV_FINAL_ANPDP_20261009.pdf
+│   ├── README-ANPDP-Z-CORE.md
+│   ├── README.md
+│   ├── READMEAIZ-CORE
+│   ├── READw.txt
+│   ├── S1-Final-Anime-Netsecurepro.html
+│   ├── S1-Final-NetSecurePro.html
+│   ├── S1.html
+│   ├── SHA256_FINAL_HTML5.txt
+│   ├── Z-CORE-CORE-APK-PROJECT.zip
+│   ├── Z-CORE.html
+│   ├── Z-CORE_3900_ANPDP_FINAL_20261009.zip
+│   ├── Z-CORE_3900_ANPDP_PACK_20261009.zip
+│   ├── Z-CORE_KIT_COMPLET_ANPDP_20261009.html
+│   ├── Z-CORE_KIT_COMPLET_ANPDP_20261009.zip
+│   ├── Z-CORE_KIT_COMPLET_FINAL_HTML5.zip
+│   ├── Zxindex.html
+│   ├── aiz_core_architecture.svg
+│   ├── artifact-e55265ef.pdf
+│   ├── carte_mentale_IA.svg
+│   ├── commandes.js
+│   ├── dashboard.html
+│   ├── developer_world_concepts__1_.svg
+│   ├── hgr.html
+│   ├── ia22_terminal.html
+│   ├── ia_auto_battery_v1.html
+│   ├── ia_park_logic.html
+│   ├── ia_zero.html
+│   ├── idbndex.html
+│   ├── inde8.txt
+│   ├── indeit6x.html
+│   ├── indeprs.html
+│   ├── indhgyex.html
+│   ├── meta.html
+│   ├── netsecurepro_ia_master_plan.html
+│   ├── neurona_os.html
+│   ├── ob1.html
+│   ├── phase01_progress.html
+│   ├── profil_employabilite_zcore.html
+│   ├── prompt-Toolkit.html
+│   ├── prompt-cmd-term.html
+│   ├── rag_guide_complet.html
+│   ├── received_1401723368152975.jpeg
+│   ├── received_1867096024450574.jpeg
+│   ├── received_1871782183981885.jpeg
+│   ├── received_2316994809153690.jpeg
+│   ├── retrieval_hybride.svg
+│   ├── s1.html
+│   ├── terminal_ia.html
+│   ├── termux.html
+│   ├── termux1.html
+│   ├── yes_access_bin.html
+│   ├── z-puce-dashboard.html
+│   ├── z_core_sovereign_ecosystem_dashboard.html
+│   ├── zcore-dashboard.html
+│   ├── zcore-demo.html
+│   ├── zcore-v3-fixed.html
+│   ├── zcore-v3.1.html
+│   ├── zcore_architecture.html
+│   ├── zcore_chat.html
+│   ├── zcore_sovereign_stack_architecture.svg
+│   ├── zcore_stack_architecture.svg
+│   ├── zpuce.html
+│   ├── zta_kanidm_sovereign_stack.html
+│   └── zta_zero_trust_architecture.html
+├── Z-CORE-APKHTML.html
+├── Z-CORE-CORE-APK-PROJECT.zip
+├── Z-CORE-H202-ZeroTrust-Firewall-v0.10.10.py
+├── Z-CORE-H202-ZeroTrust-Firewall-v0.10.11.py
+├── Z-CORE-H202-ZeroTrust-Firewall-v0.10.4.py
+├── Z-CORE-H202-ZeroTrust-Firewall-v0.10.5.py
+├── Z-CORE-H202-ZeroTrust-Firewall-v0.10.6.py
+├── Z-CORE-H202-ZeroTrust-Firewall-v0.10.7.py
+├── Z-CORE-H202-ZeroTrust-Firewall-v0.10.9.py
+├── Z-CORE_3900_ANPDP_FINAL_20261009.zip
+├── Z-CORE_3900_ANPDP_PACK_20261009.zip
+├── Z-CORE_AOYO6.py
+├── Z-CORE_CLAUDE-MYTHOS.code
+├── Z-CORE_KIT_COMPLET_ANPDP_20261009.html
+├── Z-CORE_KIT_COMPLET_ANPDP_20261009.zip
+├── Z-CORE_KIT_COMPLET_FINAL_HTML5.zip
+├── Z-CORE_git
+│   ├── LanceIA_BIN.html
+│   ├── README.md
+│   ├── docs
+│   ├── gatekeeper.sh
+│   ├── gatekeeper_ia.py
+│   ├── index.html
+│   ├── logs
+│   ├── master_orchestrator.sh
+│   ├── prompts
+│   └── vault
+├── Z-PUCE-1line.py
+├── ZCORE-Vault
+├── ZCORE_DEMO_AI22_20261011.zip
+├── ZCoreKernel.py
+├── ZCoreNative.java
+├── ZCoreServer.py
+├── ZCoreTunnel.py
+├── ZPUCE_CORE
+│   ├── README.md
+│   ├── README_LIVE.md
+│   ├── index.html
+│   ├── index_usb.html
+│   ├── logic_cover.html
+│   └── public_url.txt
+├── Z_CORE_MONOLITH.py
+├── Z_CORE_MONOLITH_MULTI.py
+├── Z_CORE_MONOLITH_MULTI_v62.py
+├── __pycache__
+│   ├── IA_ZER0.10.4_ZCORE_ENTERPRISE.cpython-314.pyc
+│   ├── filter_l1.cpython-314.pyc
+│   ├── ia22.cpython-314.pyc
+│   ├── superzero_nans_v10.cpython-314.pyc
+│   ├── superzero_nans_v11.cpython-314.pyc
+│   ├── superzero_nans_v12.cpython-314.pyc
+│   └── vfs_audit_opus5.cpython-314.pyc
+├── adr_hub_lite_full.sh
+├── agent_7gen_local.py
+├── agent_h204.py
+├── agent_h204_v2.py
+├── agent_h204_v3.py
+├── agent_h204_vault.db
+├── agent_memory.json
+├── ai-n
+│   ├── AI_AUTO.py
+│   ├── README.md
+│   ├── ZCORE_CLIENT.py
+│   ├── ZCORE_GENIE.py
+│   ├── app
+│   ├── run.sh
+│   ├── site
+│   └── venv_zcore
+├── ai22.py
+├── ai22_logic.sh
+├── ai_claude.py
+├── ai_project
+│   ├── README.md
+│   ├── __pycache__
+│   ├── ai_auto_update.py
+│   ├── ai_clone_manager.py
+│   ├── ai_infographic_assistant.py
+│   ├── ai_update_integration.py
+│   ├── analyze_project.py
+│   ├── api_routes.py
+│   ├── api_secured_routes.py
+│   ├── app.py
+│   ├── assistance_module_ia.py
+│   ├── assistant_securite.py
+│   ├── attached_assets
+│   ├── check_directory_structure.py
+│   ├── config
+│   ├── create_test_user.py
+│   ├── d_server.sh
+│   ├── directory_structure_report.json
+│   ├── echo_data_analyzer.py
+│   ├── error_analysis_results.txt
+│   ├── extensions.py
+│   ├── flask_ai_analysis_report.json
+│   ├── flask_ai_analysis_summary.txt
+│   ├── flask_analyzer.py
+│   ├── flask_project_analyzer.py
+│   ├── forms.py
+│   ├── gamification.py
+│   ├── generate_test_data.py
+│   ├── generated-icon.png
+│   ├── ia_activite_automatique.py
+│   ├── ia_mobile_auto_analyzer.py
+│   ├── index.htm
+│   ├── index.html
+│   ├── infographic_generator.py
+│   ├── instance
+│   ├── list_errors.py
+│   ├── main.py
+│   ├── mascot_creator.py
+│   ├── memory_monitor.py
+│   ├── mkdir_directories.py
+│   ├── modele_ia.h5
+│   ├── models.py
+│   ├── module_IA.py
+│   ├── network_detector.py
+│   ├── network_security.py
+│   ├── network_topology.py
+│   ├── project_analysis_report.json
+│   ├── protocol_analyzer.py
+│   ├── pyproject.toml
+│   ├── recommendations.py
+│   ├── replit.nix
+│   ├── requirements.txt
+│   ├── routes.py
+│   ├── run_flask_analyzer.py
+│   ├── security_assistant.py
+│   ├── security_scoring.py
+│   ├── static
+│   ├── stop_mobile_ia.py
+│   ├── templates
+│   ├── test_ai_clone_manager.py
+│   ├── test_ai_integration.py
+│   ├── test_ai_module_integration.py
+│   ├── test_ai_update.py
+│   ├── test_echo_analyzer.py
+│   ├── test_flask_analyzer.py
+│   ├── test_mobile_ia_auto.py
+│   ├── test_module_IA.py
+│   ├── threat_color_wheel.py
+│   ├── topology_data.json
+│   ├── translation.py
+│   ├── translations
+│   ├── update_db.py
+│   ├── update_mascot_db.py
+│   └── uv.lock
+├── ai_rules.json
+├── android-rclone
+│   ├── android-rclone
+│   ├── app
+│   ├── assets
+│   ├── build
+│   ├── build.gradle.kts
+│   ├── firebase-applet-config.json
+│   ├── gradle
+│   ├── gradle.properties
+│   ├── local.properties
+│   ├── metadata.json
+│   ├── settings.gradle.kts
+│   └── zcore-rclone-deploy.sh
+├── android-rclone-zcore
+│   ├── README.md
+│   ├── android
+│   ├── app
+│   ├── assets
+│   ├── build.gradle.kts
+│   ├── capacitor.config.ts
+│   ├── dist
+│   ├── firebase-applet-config.json
+│   ├── gradle
+│   ├── gradle.properties
+│   ├── index.html
+│   ├── local.properties
+│   ├── metadata.json
+│   ├── node_modules
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── server.ts
+│   ├── settings.gradle.kts
+│   ├── src
+│   ├── tsconfig.json
+│   └── vite.config.ts
+├── api.py
+├── api_status.py
+├── app
+│   ├── build.gradle
+│   └── src
+├── app.py
+├── app_ia_production.pid
+├── app_ia_production.py
+├── app_loi25_zero_trust.py
+├── app_zero
+│   ├── core
+│   ├── data
+│   ├── logs
+│   └── ui
+├── app_zero_ai22
+│   ├── core
+│   ├── data
+│   ├── logs
+│   └── ui
+├── appels_core.py
+├── assets
+├── attack-sim.sh
+├── attack.py
+├── audio_boost.wav
+├── audit_gemini_core.sh
+├── audit_loi25_20260910_094056.json
+├── audit_loi25_20260910_111643.json
+├── audit_loi25_20260910_113823.json
+├── audit_loi25_20260910_115337.json
+├── audit_loi25_20260921_105349.json
+├── audit_loi25_20260921_110121.json
+├── audit_loi25_20260921_122510.json
+├── audit_loi25_20260921_122521.json
+├── audit_mt1.log.enc
+├── audit_report.json
+├── banlist
+├── banlist.txt
+├── battery_advisor_api.py
+├── bench_llm.sh
+├── bench_real_v2.sh
+├── bin
+│   ├── helm
+│   ├── kubectl
+│   └── sha256sum
+├── bin_ia.py
+├── build-deb.sh
+├── build-iso.sh
+├── build.gradle
+├── build_exocore.sh
+├── build_netsecure_ia22.sh
+├── c22_audit.jsonl
+├── c22_local_agent.sh
+├── cert.pem
+├── cgi-bin
+│   └── zerotrust.sh
+├── checksums.sha256
+├── clone_zcore_v1
+│   └── zpuce
+├── cloudflare_ia2_tunnel.sh
+├── cloudflared
+├── cockpit-modules
+│   ├── README.md
+│   ├── fix_info_modules.sh
+│   ├── ia22-autorun.sh
+│   ├── ia22-bootlog.sh
+│   ├── ia22-car.sh
+│   ├── ia22-cloud.sh
+│   ├── ia22-dashboard.sh
+│   ├── ia22-gps.sh
+│   ├── ia22-map.sh
+│   ├── ia22-mission.sh
+│   ├── ia22-splash.sh
+│   ├── ia22-status.sh
+│   ├── ia22-sync.sh
+│   ├── ia22-update.sh
+│   └── run_ia22_data.sh
+├── config_backup.txt
+├── control
+├── cookies.txt
+├── coopkit_ai22_v2_llama.sh
+├── coopkit_ia-d
+│   ├── CNAME
+│   ├── README.md
+│   ├── ai_studio_code3.html
+│   ├── capsule.html
+│   ├── capsule.json
+│   ├── coopkit_ia-milyes.zip
+│   ├── coopkit_ia.zip
+│   ├── coopkit_ia_milyes_extracted
+│   ├── fjkindex.html
+│   ├── ind67ex.html
+│   ├── indbjex.html
+│   ├── index.html
+│   ├── meteo.html
+│   └── package.sh
+├── coopkit_zero_trust_ai22.sh
+├── coopkit_zero_trust_native.sh
+├── core
+│   ├── __pycache__
+│   ├── index.html
+│   └── security.py
+├── crb.json
+├── crontab.zcore
+├── crypt_zcore:
+├── dashboard.html
+├── dashboard.sh
+├── data
+│   ├── logs
+│   └── publications.json
+├── dead.letter
+├── decrypt_zt.sh
+├── delegate
+├── demo_loi25.sh
+├── demonetsecurepro.sh
+├── deploy_ai22_zero.sh
+├── deploy_ghpages.sh
+├── deploy_nan_core_v11.sh
+├── deploy_nan_core_v11_home.sh
+├── deploy_nans_v9.sh
+├── deploy_omnia_complete.sh
+├── deploy_un_par_un.sh
+├── deploy_zcore.sh
+├── deploy_zpuce_complete.sh
+├── detecteur_fantome_v1.4.html
+├── dist
+│   ├── MANIFEST.json
+│   ├── assets
+│   ├── data
+│   ├── docker-compose.yml
+│   └── index.html
+├── docs
+│   ├── D003-SOUVERAINETE-v1.0.pdf
+│   └── D003.sha512
+├── dossier.txt
+├── download
+├── downloads
+│   ├── 2024-06-27 15-55-23 (mic) Enregistrement du di
+ctaphone.amr
+│   ├── 20261010_140000.mp4
+│   ├── 20261010_140000.wav
+│   ├── 20261010_153045.m4a
+│   ├── IA22_Web_Console
+│   ├── Livre_Blanc_NetSecurePro_IA.docx
+│   ├── Messenger_creation_52075852-60C8-4F75-A945-51E
+5C9C20D59.mp4
+│   ├── Microsoft Copilot _ votre assistant IA.mhtml
+│   ├── Rapport.de.Diagnostic.Multimodal.sig
+│   ├── Z-CORE IA Parkinson — Dossier Clinique Neurolo
+gues v2.4.pptx
+│   ├── ai_interaction.js
+│   ├── cve5drbup7v0n3h627esld4br0nl6ps0d05o04ld2s6nqa
+djf0d0
+│   ├── index.ts
+│   ├── milyes-zcore-api-attestation-43208107.sigstore
+.json
+│   ├── nregistrement du dictaphone.wav
+│   ├── package-lock.json
+│   ├── sahbi-pitch-TELUS-anime.pptx
+│   ├── setup_ia22_web.sh
+│   ├── super_zer0_final_v3.2.sh
+│   ├── super_zer0_v3.3.sh
+│   ├── zcore-api-10.3
+│   ├── zcore-api-10.3.zip
+│   └── zcore-api-10.7 (1).zip
+├── ec.sh
+├── enregistrement_recupere.wav
+├── examples
+│   ├── benchmark_g7.py
+│   └── benchmark_g7_monitor.py
+├── exit
+├── exo_core_zero.html
+├── export
+├── export.csv
+├── export_loi25.sh
+├── extract_audio.sh
+├── extract_audio_fixed.sh
+├── filter_l1.py
+├── final_setup_adr_hub.sh
+├── find_cameras.sh
+├── fix_port.py
+├── forge_interface.html
+├── fraude_core.py
+├── fusion_zcore_zt.sh
+├── gatekeeper.sh
+├── gatekeeper_ia.py
+├── gatekeeper_live.sh
+├── gemini_core_zt.py
+├── ghost_audit.sh
+├── ghost_hunter_v1.1.sh
+├── ghost_hunter_v1.sh
+├── ghost_hunter_world.sh
+├── ghost_log.txt
+├── ghost_logs
+│   ├── ghost_log_20260814_0238.txt
+│   └── ghost_log_20260814_0242.txt
+├── ghost_terminal.sh
+├── go
+│   └── pkg
+├── gork4_fire.sh
+├── hash_dsi.txt
+├── html
+│   └── index.html
+├── ia-zero-07
+│   ├── CERTIFICATION.md
+│   ├── IA_ZER0_07.py
+│   ├── IA_ZER0_AUDIT_KITs.zip
+│   ├── NSP-LAW-AI-2026-9942-CERT.md
+│   ├── README.md
+│   ├── Z-CORE-MYTHOS_v3.3_20260814.sha256
+│   ├── Z-CORE-MYTHOS_v3.3_20260814.zip
+│   ├── Z-CORE-MYTHOS_v3.3_COMPILED_20260814.zip.sha25
+6
+│   ├── Z-CORE-MYTHOS_v3.3_GHOSTSEC_20260814.zip
+│   ├── Z-CORE-MYTHOS_v3.3_GHOSTSEC_20260814.zip.sha25
+6
+│   ├── build_deploy_zip.sh
+│   ├── compile_kit_ghost.sh
+│   ├── deploy_push_v3.3.sh
+│   ├── ghost_push_final.sh
+│   ├── ghost_push_force.sh
+│   ├── ghost_push_ghostsec.sh
+│   ├── ghost_rebuild_and_push.sh
+│   ├── ghost_surfer_fix.sh
+│   ├── ghost_surfer_fix_v2.sh
+│   ├── ghost_surfer_push_ghostsec.sh
+│   ├── ghost_surfer_push_main.sh
+│   ├── ghost_surfer_ultra.sh
+│   ├── ghostsec_activate.sh
+│   ├── ghostsec_clean_rebuild.sh
+│   ├── ghostsec_final.sh
+│   ├── ghostsec_out
+│   ├── ghostsec_secure.sh
+│   ├── ia-zero-07
+│   ├── ia-zero-07.sh
+│   ├── ia-zero-07_full_repo.zip
+│   ├── ia_zer0_security_log.json
+│   ├── index.html
+│   ├── push_ghostsec_manual.sh
+│   └── super_zer0_v3.3.bin
+├── ia-zero-07_v10.2.1.zip
+├── ia22.keystore
+├── ia22.py
+├── ia22_autonome.sh
+├── ia22_bin.py
+├── ia22_bin_html5.html
+├── ia22_bin_server.py
+├── ia22_cockpit.html
+├── ia22_pipeline.sh
+├── ia22_soc.sh
+├── ia22_tunnel_oai.py
+├── ia22_web.sh
+├── ia22_zero_trust.sh
+├── ia22_zerotrust_bashonly.sh
+├── ia22_zerotrust_final.sh
+├── ia22_zerotrust_native.sh
+├── ia22_zerotrust_pipeline.sh
+├── ia22_zerotrust_pipeline_v2.sh
+├── ia22a_audit.db
+├── ia22a_audit_v4.db
+├── ia_image
+│   ├── Dockerfile
+│   ├── build_run.sh
+│   ├── exec_html.sh
+│   └── index_activation_complete.html
+├── ia_sahbi.sh
+├── ia_server.py
+├── ia_web.py
+├── ia_z0r0_07.py
+├── ia_zero_11_nans_web.py
+├── ia_zero_v11_final.tar.gz
+├── index.html
+├── innovia_core.json
+├── install-gemini-core.sh
+├── install.sh
+├── install_az_cli_termux.sh
+├── install_az_cli_termux_fix.sh
+├── install_client.sh
+├── install_core.sh
+├── install_llama.sh
+├── install_package_standalone.sh
+├── install_prompt_nanscore.sh
+├── install_zcore.sh
+├── install_zcore_hook.sh
+├── install_zpuce_omnia.sh
+├── inter_z_mythos_standalone.js
+├── iris.csv
+├── iris_nans_v12.json
+├── keep_ghost.sh
+├── keep_live.sh
+├── key.pem
+├── kpi
+├── launcher
+│   ├── A_promotional_digital_graphic_design_for_NetSe
+cure.png
+│   ├── NetSecurePro_Menu_Launcher_v1.0_Pack_Complet.z
+ip
+│   ├── QR_GitHubPages_Launcher.png
+│   ├── QR_Launcher.png
+│   ├── QR_NetSecurePro_Global.png
+│   ├── README.md
+│   ├── fiche_officielle_lancement_netsecurepro_ia_v1.
+0.pdf
+│   ├── netsecurepro_launcher_fiche.pdf
+│   ├── netsecurepro_launcher_package.zip
+│   └── netsecurepro_menu_launcher.sh
+├── logs
+├── loi25_export.jsonl
+├── luna-zcore.html
+├── m9n_zero_trust.sh
+├── main.tf
+├── main_sahbi_sa.py
+├── make_package.sh
+├── marloo_gateway_v10.tar.gz
+├── marloo_prod
+│   ├── __pycache__
+│   ├── cache_guard.py
+│   ├── logger_marloo.py
+│   ├── logs
+│   ├── test_auth_marloo.py
+│   └── timing_guard.py
+├── master.sh
+├── master_orchestrator.sh
+├── mcl_milyes_soverain.sh
+├── mcl_orchestrator.py
+├── md_to_pdf.py
+├── memory
+├── menu.sh
+├── mib.sh
+├── mil_07_init.py
+├── milies_dump_final.sh
+├── milies_nans_core.py
+├── milies_standalone_cleaner.sh
+├── milies_v9_nans.html
+├── milyes-dashboard.html
+├── milyes-ia-v9-nans
+│   ├── config
+│   ├── logs
+│   ├── run
+│   └── state
+├── milyes.github.io
+│   ├── 3rdpartylicenses.txt
+│   ├── LICENSE
+│   ├── MonProjet
+│   ├── NetSecurePro
+│   ├── README.md
+│   ├── T.sh
+│   ├── addrep.sh
+│   ├── ai_project.html
+│   ├── assets
+│   ├── browser
+│   ├── default.html
+│   ├── deploy.sh
+│   ├── developer.html
+│   ├── dns
+│   ├── docs.html
+│   ├── fix_smart_medicine_gamestyle (1).zip
+│   ├── go.html
+│   ├── guiemd.md
+│   ├── index (13).html
+│   ├── index.html
+│   ├── index1.html
+│   ├── index3.html
+│   ├── index_pro_netsecure.htmll
+│   ├── indfex.html
+│   ├── logo_netsecurepro_animated.svg
+│   ├── milyes_github_io_final.zip
+│   ├── modules.html
+│   ├── netsecurepro_futuriste_home.png
+│   ├── netsecurepro_game_site (1).zip
+│   ├── netsecurepro_game_site.zip
+│   ├── netsecurepro_site_intro_logo.zip
+│   ├── pdf_to_clean_image1s_cli.py
+│   ├── pdf_to_clean_images1.py
+│   ├── prerendered-routes.js
+│   ├── prjt_setup.sh
+│   ├── script
+│   ├── server
+│   ├── setup_android_tv_avd.sh
+│   ├── styles.css
+│   └── tools.html
+├── milyes_5min_processor.py
+├── milyes_ai22.sh
+├── milyes_analyzer.py
+├── milyes_cli.py
+├── milyes_cli_v5.py
+├── milyes_core.py
+├── milyes_core.sh
+├── milyes_data
+│   ├── access.token
+│   └── state.json
+├── milyes_downloader.py
+├── milyes_downloader_v2.py
+├── milyes_ia.sh
+├── milyes_ia_zero_trust.py
+├── milyes_ia_zero_trust.sh
+├── milyes_mythos_core.js
+├── milyes_mythos_core_v4.9.1.js
+├── milyes_mythos_core_v4.9.2.js
+├── milyes_produit_fini_v4.10.py
+├── milyes_qec_quantum.html
+├── milyes_streamer_v3.py
+├── milyes_task_exec.sh
+├── milyes_unified_core.js
+├── miyles_emula.sh
+├── mobile_tracer_audit.sh
+├── models
+│   └── llama-3.2-1b-instruct.Q4_K_M.gguf
+├── modules_milyes.py
+├── mon_script.sh
+├── msrc_routing_schema.txt
+├── mythos_logs
+│   ├── result_1786707688379.json
+│   ├── result_1786707688387.json
+│   ├── result_1786707981909.json
+│   └── result_1786707981917.json
+├── nan_core
+│   └── zerotrust
+├── nan_core_zt_v11.sh
+├── nan_core_zt_v12.sh
+├── nans-v9-hybrid.sh
+├── nans_agent_zt
+│   └── logs
+├── nans_agent_zt_v13.sh
+├── nans_azure_zt
+│   ├── Dockerfile
+│   ├── Z_CORE_MONOLITH_MULTI_v62.py
+│   ├── logs
+│   ├── nans_agent_zt_v13.sh
+│   └── run_nans_zt_v63.sh
+├── nans_cleanup_capsule.sh
+├── nans_core.py
+├── nans_monitor.sh
+├── nans_v9_core.py
+├── nans_v9_engine.py
+├── nans_v9_native.py
+├── nans_watchdog.sh
+├── nans_zt
+│   └── logs
+├── nans_zt_standalone.sh
+├── nansv9.zip
+├── neo-dz
+│   ├── JOSHUA_13_36_DEMO.ia
+│   └── JOSHUA_13_36_V4.ia
+├── neo_dz_soc.py
+├── neo_dz_web.py
+├── nersecurepro
+│   ├── CNAME
+│   ├── Copkit.html
+│   ├── MSRC-2026-8842_Dossier_Azure_AI_Search_Private
+_Link.html
+│   ├── MYTHOS_PROMPTS_MILYES.txt
+│   ├── Marlon.html
+│   ├── NetSecurePro_IA_ZPUCE_CORE_v1.1.0.zip
+│   ├── NetSecurePro_IA_ZPUCE_CORE_v1.2.0_Phase3.zip
+│   ├── README.md
+│   ├── asire.html
+│   ├── assets
+│   ├── auto_sitemap.sh
+│   ├── callback.html
+│   ├── docs
+│   ├── donne.html
+│   ├── generate_sitemap.sh
+│   ├── ia.html
+│   ├── ia_zero.html
+│   ├── in545dex.html
+│   ├── ind.html
+│   ├── ind8.html
+│   ├── index.html
+│   ├── indfggex.html
+│   ├── indghgex.html
+│   ├── indhhlex.html
+│   ├── inhfhdex.html
+│   ├── milies_core.html
+│   ├── milyes
+│   ├── milyes_ia_v9.html
+│   ├── mythos_prompts.html
+│   ├── netsecurepro
+│   ├── nsp76.html
+│   ├── protection.html
+│   ├── protection2.html
+│   ├── protection3.html
+│   ├── rvv.html
+│   ├── securiser-azure-ai-s.html
+│   ├── sitemap.html
+│   ├── ssddf.html
+│   ├── strategie_zero.html
+│   ├── t.html
+│   ├── z-puce-dashboard.html
+│   ├── z_claude_code_prompt.html
+│   ├── zcore-architecture-dashboard.html
+│   ├── zcore_sovereign_dashboard.html
+│   └── zerotrust.html
+├── netsecure-build
+│   ├── NETSECURE_IA22_ZCORE_10.21.pkg.json
+│   └── NETSECURE_IA22_ZCORE_10.21.pkg.json.sha256
+├── netsecure_zt
+│   ├── logs
+│   ├── server_zt.py
+│   └── templates
+├── netsecurepro
+│   ├── artifacts
+│   ├── docs
+│   ├── scripts
+│   └── src
+├── netsecurepro-ia
+│   ├── 3rdpartylicenses.txt
+│   ├── CNAME
+│   ├── LICENSE
+│   ├── MonProjet
+│   ├── NetSecurePro
+│   ├── README.md
+│   ├── T.sh
+│   ├── addrep.sh
+│   ├── ai_project.html
+│   ├── assets
+│   ├── browser
+│   ├── default.html
+│   ├── deploy.sh
+│   ├── developer.html
+│   ├── dns
+│   ├── docs.html
+│   ├── fix_smart_medicine_gamestyle (1).zip
+│   ├── go.html
+│   ├── guiemd.md
+│   ├── index (13).html
+│   ├── index.html
+│   ├── index1.html
+│   ├── index3.html
+│   ├── index_pro_netsecure.htmll
+│   ├── indfex.html
+│   ├── logo_netsecurepro_animated.svg
+│   ├── milyes_github_io_final.zip
+│   ├── modules.html
+│   ├── netsecurepro_futuriste_home.png
+│   ├── netsecurepro_game_site (1).zip
+│   ├── netsecurepro_game_site.zip
+│   ├── netsecurepro_site_intro_logo.zip
+│   ├── pdf_to_clean_image1s_cli.py
+│   ├── pdf_to_clean_images1.py
+│   ├── prerendered-routes.js
+│   ├── prjt_setup.sh
+│   ├── script
+│   ├── server
+│   ├── setup_android_tv_avd.sh
+│   ├── styles.css
+│   └── tools.html
+├── netsecurepro-ia-lab
+│   ├── README.md
+│   ├── demo
+│   ├── netsecurepro-ia-lab-v1.0.3.zip
+│   ├── validators
+│   └── zero_trust_native.py
+├── netsecurepro.crt
+├── netsecurepro.key
+├── netsecurepro.sh
+├── netsecurepro_9layers.sh
+├── netsecurepro_control_center.py
+├── netsecurepro_core
+│   ├── __pycache__
+│   ├── audit.py
+│   ├── context.py
+│   ├── engine.py
+│   ├── policy.py
+│   ├── risk.py
+│   └── test_suite.py
+├── netsecurepro_core.db
+├── netsecurepro_ia.py
+├── netsecurepro_ia22_native.sh
+├── netsecurepro_ia22_native_v2.sh
+├── netsecurepro_ia22_sovereign.py
+├── netsecurepro_ia22_sovereign_v33.py
+├── netsecurepro_ia22_sovereign_v34.py
+├── netsecurepro_ia22_sovereign_v35.py
+├── netsecurepro_ia22_sovereign_v36.py
+├── netsecurepro_ia22_sovereign_v37.py
+├── netsecurepro_ia22_sovereign_v38.py
+├── netsecurepro_ia22_sovereign_v39.py
+├── netsecurepro_ia22_sovereign_v40.py
+├── netsecurepro_ia_platform.py
+├── netsecurepro_mobile.sh
+├── netsecurepro_real.sh
+├── netsecurepro_v40.tar.gz
+├── netsecurepro_zcore
+│   ├── assets
+│   ├── index.html
+│   ├── manifest.json
+│   └── sw.js
+├── netsecurepro_zcore.sh
+├── netsecurepro_zcore_final.sh
+├── netsecurepro_zerotrust.sh
+├── netsecurepro_zerotrust_tesla.sh
+├── network_audit.sh
+├── nexus_auth_v10.sh
+├── nexus_core_v12.sh
+├── nexus_state
+│   └── rl_127.0.0.1
+├── nexus_vigilance_v11.sh
+├── nohup.out
+├── nsp-zcore-v11
+│   ├── nsp_core.py
+│   ├── nsp_server.py
+│   ├── super3d.html
+│   └── test_nsp.py
+├── nsp_core_diag.sh
+├── nsp_security_audit.py
+├── objz.db
+├── objz_native.py
+├── ollama_sahbi.sh
+├── omnia_zero_trust
+│   ├── OmniaServer.py
+│   ├── ai_rules.json
+│   └── index.html
+├── output
+│   ├── MSL
+│   └── foo
+├── package-lock.json
+├── patch_audit_log.sh
+├── patch_gemini.sh
+├── patch_infra_v9.py
+├── payload.json
+├── payload.txt
+├── php_config_audit.txt
+├── pipeline_ia_upscale.py
+├── pkg-deb
+│   ├── DEBIAN
+│   ├── opt
+│   └── usr
+├── poc-erp-sap-clienta
+│   └── index.html
+├── poc_output.txt
+├── poc_output_v3.txt
+├── policy.json
+├── preuve_loi25_export.json
+├── public_html
+│   ├── index.html
+│   └── nsp_core_diag.sh
+├── publications.html
+├── qec_simulation.py
+├── rapport.json
+├── rapport_appel.json
+├── rapport_batch.json
+├── rapport_dsi_20260921.zip
+├── reactive_ai_output.html
+├── read_siem_log.py
+├── recon_net.py
+├── recon_net_v2.py
+├── recon_net_v3.py
+├── report_netsecurepro_sovereign.html
+├── reports
+│   ├── INC-2026-5A78F2.pdf
+│   └── validation-report.json
+├── requirements.txt
+├── rex-v9.py
+├── roboox-ultra-training
+│   ├── 1775991695192.png
+│   ├── 1776082390419.png
+│   ├── 1776083492302.png
+│   ├── 1776090460652.png
+│   ├── 1776090947285.png
+│   ├── README.md
+│   ├── ZH202_dashboard_v2.html
+│   ├── ZH202ia_architecture_IA_2026.html
+│   ├── benchmark.py
+│   ├── core
+│   ├── docs
+│   ├── dossier.py
+│   ├── energy_manager.py
+│   ├── generate_dashboard.py
+│   ├── innovation.py
+│   ├── main.py
+│   ├── main.py.backup
+│   ├── memory
+│   ├── memory.json
+│   ├── psychometrie.py
+│   ├── robot.html
+│   ├── sentinel_pulse.py
+│   ├── start_roboox.sh
+│   ├── status_report.py
+│   ├── training
+│   ├── z_ia
+│   ├── zcore-h202.html
+│   └── zcore_h202_launch.html
+├── run_all_ghost.sh
+├── run_daemon.sh
+├── run_logic_matrix.sh
+├── run_usb_access.sh
+├── run_zcore_monolith.py
+├── run_zcore_native.py
+├── sahbi-sa.sh
+├── sahbi-sa.sh_html5
+├── sahbi-sa.tar.gz
+├── sahbi_bin_lance.sh
+├── sandbox
+│   └── donnees.txt
+├── scan
+├── scan.sh
+├── scripts
+│   └── backup.sh
+├── seal_session.sh
+├── secure_agent.py
+├── secure_agent_demo.py
+├── secure_agent_v2.py
+├── secure_agent_v2_dz.py
+├── secure_ollama_agent.py
+├── security_audit.py
+├── security_copilot_microservices.py
+├── security_copilot_zero_trust.py
+├── sens_net.sh
+├── sens_net_py.sh
+├── sens_net_watch.sh
+├── sens_net_zero.sh
+├── server.js
+├── server.pem
+├── server.py
+├── server_zt_native.py
+├── settings.gradle
+├── setup-gemini-key.sh
+├── setup_milyes_v9.py
+├── setup_zcore.sh
+├── setup_zcore_hook.sh
+├── setup_zpuce.sh
+├── siem_audit.tar.gz
+├── soc_zero.py
+├── sovereign.db
+├── src
+│   └── ia_zer0
+├── storage
+│   ├── dcim -> /storage/emulated/0/DCIM
+│   ├── downloads -> /storage/emulated/0/Download
+│   ├── movies -> /storage/emulated/0/Movies
+│   ├── music -> /storage/emulated/0/Music
+│   ├── pictures -> /storage/emulated/0/Pictures
+│   └── shared -> /storage/emulated/0
+├── stress_test.py
+├── studio_super_image.html
+├── super_zer0_final.sh
+├── super_zer0_final_v3.2.sh
+├── super_zer0_final_v3.sh
+├── super_zer0_fix.s
+├── super_zer0_fix.sh
+├── super_zer0_poc.sh
+├── superzero_nans_v10.py
+├── superzero_nans_v11.py
+├── superzero_nans_v12.py
+├── superzero_nans_v9.py
+├── teleport_binary.sh
+├── tensor_shield.py
+├── tensor_shield_v2.py
+├── termux_ia
+│   ├── LICENSE
+│   ├── assets
+│   ├── bun.lock
+│   ├── index.html
+│   ├── metadata.json
+│   ├── node_modules
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── server.ts
+│   ├── src
+│   ├── tsconfig.json
+│   └── vite.config.ts
+├── test.json
+├── test.txt
+├── test_attack_failsafe.sh
+├── test_bip.wav
+├── test_canal_gemini.py
+├── test_client_zero_trust.sh
+├── test_leak.sh
+├── test_v34_aimedixal.sh
+├── test_v37_reason.sh
+├── test_v38_batch.sh
+├── test_zt.py
+├── toggle
+├── ui
+│   └── main_gui.py
+├── upgrade_ipaddress.py
+├── usb_analyzer_control.sh
+├── v1.3
+├── venv
+│   ├── bin
+│   ├── include
+│   ├── lib
+│   ├── lib64 -> lib
+│   └── pyvenv.cfg
+├── verify_pdf.py
+├── vfs_audit.json
+├── vfs_audit.py
+├── vfs_audit_d6.json
+├── vfs_audit_d6_summary.txt
+├── vfs_audit_opus5.py
+├── vision_core.py
+├── visual_processor.py
+├── vite.config.ts
+├── vosk-model-fr
+│   └── vosk-model-small-fr-0.22
+├── vpn_killswitch.sh
+├── web_dash.sh
+├── whitepaper.html
+├── xor_nans_v11.json
+├── z-core.desktop
+├── z-core_MCLDZ
+│   ├── AI_AUTO.py
+│   ├── CHANGELOG.md
+│   ├── README.MD
+│   ├── README.md
+│   ├── SECURITY.md
+│   ├── dashboard.html
+│   ├── docs
+│   ├── index.html
+│   ├── mcl_batch_deploy.py
+│   ├── mcl_milyes_logs.json
+│   ├── platform.py
+│   ├── projects
+│   ├── src
+│   └── tests
+├── z-ghosttrafker-z.sh
+├── z-tesla-dashboard
+│   ├── client
+│   ├── node_modules
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── server.js
+│   └── vite.config.js
+├── z.py
+├── z_core
+│   ├── IAInnovia.py
+│   ├── IA_REDORER.py
+│   ├── README.md
+│   ├── ZCoreKernel.py
+│   ├── ZCoreServer.py
+│   ├── ZCoreTunnel.py
+│   ├── __pycache__                                   
+│   ├── autostart.sh
+│   ├── bin_store
+│   ├── deploy_ghpages.sh
+│   ├── dist_payload                                  
+│   ├── master_orchestrator.sh
+│   ├── teleport_binary.sh
+│   ├── z_core
+│   └── z_local_server.py -> ZCoreServer.py
+├── z_core_diagnostic.sh
+├── z_core_diagnostic_v1.1.sh
+├── z_core_final.py
+├── z_core_fips.c
+├── z_core_unified.py                                 
+├── z_core_v310
+│   ├── IAInnovia.py
+│   ├── ZCoreKernel.py
+│   ├── ZCoreServer.py
+│   ├── ZCoreTunnel.py                                
+│   ├── deploy_ghpages.sh
+│   ├── index.html
+│   ├── logs
+│   ├── master.sh
+│   └── teleport_binary.sh
+├── z_ghost_treker_lte.py
+├── z_ghost_trscrr.py
+├── z_puce_V6_2_RAM50.go
+├── z_puce_netsecurepro.py
+├── z_tesla_complete.sh
+├── z_tesla_dashboard.sh
+├── zbench
+├── zcore
+│   ├── config
+│   ├── deploy.sh
+│   ├── logs
+│   ├── modules
+│   ├── public
+│   └── storage
+├── zcore-agent7
+│   ├── LanceIA_BIN.html
+│   ├── RAPPORT.md
+│   ├── README.md
+│   ├── Z-Puce-1line.py
+│   ├── archive
+│   ├── nohup.out
+│   ├── preuve_loi25_export.json
+│   ├── zcore.log
+│   ├── zcore_orchestrator.py
+│   └── zcore_security.py
+├── zcore-api
+│   ├── Dockerfile
+│   ├── INDEX.md
+│   ├── README.md
+│   ├── README_SECURITY.md
+│   ├── docs
+│   ├── k8s
+│   ├── src
+│   └── tests
+├── zcore-api-dlp-v9-pack
+│   └── zcore-api-dlp-v9
+├── zcore-api-dlp-v9-pack.zip
+├── zcore-api-v9-FINAL-20024e1.tar.gz
+├── zcore-api-v9-FINAL-20024e1.zip
+├── zcore-api-v9.0.0-cloche-hermetique-7046238.zip
+├── zcore-api-v9.0.0-cloche-hermetique.tar.gz
+├── zcore-api-v9.0.0-cloche-hermetique.zip
+├── zcore-deploy.sh
+├── zcore-g7.sh
+├── zcore-h202-firewall
+│   ├── IA_ZER0.10.4_ZCORE_ENTERPRISE.py
+│   ├── README.md
+│   ├── Z-CORE-H202-ZeroTrust-Firewall-v0.10.4.zip
+│   ├── index.html
+│   └── zcore_audit.wal
+├── zcore-rclone-deploy.sh
+├── zcore-secops.sh
+├── zcore-v3.1.0-installer.sh
+├── zcore-wrapper.sh
+├── zcore.sh
+├── zcore_3900_zero_trust.sh
+├── zcore_ai22_unified.py
+├── zcore_api_deploy.sh
+├── zcore_archive
+│   ├── error_20260807_203405.txt
+│   ├── error_20260807_203457.txt
+│   ├── log_20260807_203405.txt
+│   └── log_20260807_203457.txt
+├── zcore_audit.jsonl
+├── zcore_audit.wal
+├── zcore_bench_20261007_140010.json                  
+├── zcore_bench_real.sh
+├── zcore_bench_v1.5.sh
+├── zcore_bench_v1.6.1.sh
+├── zcore_bench_v1.6.sh
+├── zcore_bench_v1.7.sh
+├── zcore_boot.sh
+├── zcore_cache
+│   ├── Modelfile
+│   └── Z-SUPER-IA_Modelfile
+├── zcore_claude_mythos.js
+├── zcore_complete_system.py
+├── zcore_core_service_safe.py
+├── zcore_daemon.sh
+├── zcore_deploy.sh
+├── zcore_deploy_3900_native
+│   ├── MANIFESTE_ANPDP_LOT_01.json
+│   ├── MANIFESTE_ANPDP_LOT_02.json
+│   ├── MANIFESTE_ANPDP_LOT_03.json
+│   ├── MANIFESTE_ANPDP_LOT_04.json
+│   ├── MANIFESTE_ANPDP_LOT_05.json
+│   ├── MANIFESTE_ANPDP_LOT_06.json
+│   ├── MANIFESTE_ANPDP_LOT_07.json
+│   ├── MANIFESTE_ANPDP_LOT_08.json
+│   ├── MANIFESTE_ANPDP_LOT_09.json
+│   ├── MANIFESTE_ANPDP_LOT_1.json
+│   ├── MANIFESTE_ANPDP_LOT_10.json
+│   ├── MANIFESTE_ANPDP_LOT_11.json
+│   ├── MANIFESTE_ANPDP_LOT_12.json
+│   ├── MANIFESTE_ANPDP_LOT_13.json
+│   ├── MANIFESTE_ANPDP_LOT_14.json
+│   ├── MANIFESTE_ANPDP_LOT_15.json
+│   ├── MANIFESTE_ANPDP_LOT_16.json
+│   ├── MANIFESTE_ANPDP_LOT_17.json
+│   ├── MANIFESTE_ANPDP_LOT_18.json
+│   ├── MANIFESTE_ANPDP_LOT_19.json
+│   ├── MANIFESTE_ANPDP_LOT_2.json
+│   ├── MANIFESTE_ANPDP_LOT_20.json
+│   ├── MANIFESTE_ANPDP_LOT_21.json
+│   ├── MANIFESTE_ANPDP_LOT_22.json
+│   ├── MANIFESTE_ANPDP_LOT_23.json
+│   ├── MANIFESTE_ANPDP_LOT_24.json
+│   ├── MANIFESTE_ANPDP_LOT_25.json
+│   ├── MANIFESTE_ANPDP_LOT_26.json
+│   ├── MANIFESTE_ANPDP_LOT_27.json
+│   ├── MANIFESTE_ANPDP_LOT_28.json
+│   ├── MANIFESTE_ANPDP_LOT_29.json
+│   ├── MANIFESTE_ANPDP_LOT_3.json
+│   ├── MANIFESTE_ANPDP_LOT_30.json
+│   ├── MANIFESTE_ANPDP_LOT_31.json
+│   ├── MANIFESTE_ANPDP_LOT_32.json
+│   ├── MANIFESTE_ANPDP_LOT_33.json
+│   ├── MANIFESTE_ANPDP_LOT_34.json
+│   ├── MANIFESTE_ANPDP_LOT_35.json
+│   ├── MANIFESTE_ANPDP_LOT_36.json
+│   ├── MANIFESTE_ANPDP_LOT_37.json
+│   ├── MANIFESTE_ANPDP_LOT_38.json
+│   ├── MANIFESTE_ANPDP_LOT_39.json
+│   ├── MANIFESTE_ANPDP_LOT_4.json
+│   ├── MANIFESTE_ANPDP_LOT_5.json
+│   ├── MANIFESTE_ANPDP_LOT_6.json
+│   ├── MANIFESTE_ANPDP_LOT_7.json
+│   ├── MANIFESTE_ANPDP_LOT_8.json
+│   ├── MANIFESTE_ANPDP_LOT_9.json
+│   ├── TOKENS_3900.csv
+│   ├── lot_01_tokens.json
+│   ├── lot_02_tokens.json
+│   ├── lot_03_tokens.json
+│   ├── lot_04_tokens.json
+│   ├── lot_05_tokens.json
+│   ├── lot_06_tokens.json
+│   ├── lot_07_tokens.json
+│   ├── lot_08_tokens.json
+│   ├── lot_09_tokens.json
+│   ├── lot_10_tokens.json
+│   ├── lot_11_tokens.json
+│   ├── lot_12_tokens.json
+│   ├── lot_13_tokens.json
+│   ├── lot_14_tokens.json
+│   ├── lot_15_tokens.json
+│   ├── lot_16_tokens.json
+│   ├── lot_17_tokens.json
+│   ├── lot_18_tokens.json
+│   ├── lot_19_tokens.json
+│   ├── lot_1_tokens.json
+│   ├── lot_20_tokens.json
+│   ├── lot_21_tokens.json
+│   ├── lot_22_tokens.json
+│   ├── lot_23_tokens.json
+│   ├── lot_24_tokens.json
+│   ├── lot_25_tokens.json
+│   ├── lot_26_tokens.json
+│   ├── lot_27_tokens.json
+│   ├── lot_28_tokens.json
+│   ├── lot_29_tokens.json
+│   ├── lot_2_tokens.json
+│   ├── lot_30_tokens.json
+│   ├── lot_31_tokens.json
+│   ├── lot_32_tokens.json
+│   ├── lot_33_tokens.json
+│   ├── lot_34_tokens.json
+│   ├── lot_35_tokens.json
+│   ├── lot_36_tokens.json
+│   ├── lot_37_tokens.json
+│   ├── lot_38_tokens.json
+│   ├── lot_39_tokens.json
+│   ├── lot_3_tokens.json
+│   ├── lot_4_tokens.json
+│   ├── lot_5_tokens.json
+│   ├── lot_6_tokens.json
+│   ├── lot_7_tokens.json
+│   ├── lot_8_tokens.json
+│   └── lot_9_tokens.json
+├── zcore_dm.sh
+├── zcore_dossier.html
+├── zcore_enterprise.py
+├── zcore_export_rapport.sh
+├── zcore_g7.db
+├── zcore_g7_v1.1.sh
+├── zcore_h202.py
+├── zcore_h202_engine.js
+├── zcore_h202_ssrf_v2.py
+├── zcore_init.sh
+├── zcore_integrity.sha256
+├── zcore_keys.txt
+├── zcore_local_inference.py
+├── zcore_logic_ai22.py
+├── zcore_master.sh
+├── zcore_matrix_v10.sh
+├── zcore_orchestrator.py
+├── zcore_post_v1.1.html
+├── zcore_ram.sh
+├── zcore_secops.sh
+├── zcore_test.py
+├── zcore_v22.enc
+├── zcore_v22_cloud.sh
+├── zcore_v22_cloud_secure.sh
+├── zcore_v22_nod.sh
+├── zcore_v22_secure.sh
+├── zcore_v9_monitor.sh
+├── zcore_webview.py
+├── zcore_zero_trust
+│   ├── AIMEDIXAL_DOSSIER_v4-PRO_2026-09-20.html
+│   ├── ZCoreServer.py
+│   ├── ZCoreServer_Omnia.py
+│   ├── ai_rules.json
+│   ├── ajouter_page5_roi.sh
+│   ├── index.html
+│   └── logs
+├── zcore_zero_trust.sh
+├── zero_trust_ai_core
+│   ├── certs
+│   ├── gateway.py
+│   └── zcore_dossier.html
+├── zero_trust_chat_gateway.py
+├── zero_trust_native.py
+├── zero_web_deploy.sh
+├── zero_web_deploy_ai22.sh
+├── zerotrust
+│   ├── api.py
+│   ├── blocked_ips.txt
+│   ├── entities.conf
+│   ├── entities_conf
+│   ├── ice_shield.sh
+│   ├── ice_shield_termux.sh
+│   ├── index.html
+│   ├── waf_test.sh
+│   └── zerotrust.sh
+├── zerotrust.sh
+├── zt-ai22
+│   ├── one.sh
+│   ├── package-lock.json
+│   ├── package.json
+│   └── src
+├── zt_demo_api_client.py
+└── zt_native.py
+
+316 directories, 1921 files
+
+[NANS-V9] [CPU:0.00 | RAM:72%] u0_a478@localhost : ~
+❯
